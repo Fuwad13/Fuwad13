@@ -9,6 +9,10 @@ I do competitive programming and do random stuffs.
     </a>
 </div>
 
+* Programming Languages : C++, C, Python, Java, Javascript
+* Cloud computing
+* Competitive Programming
+
 ## Tools and Technologies
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Cyber-Sherlock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
