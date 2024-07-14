@@ -1,5 +1,5 @@
-# Cyber Sherlock 
-Hello there, I'm Sherlock
+# Fuwad13
+Hello there, I'm Fuwad
 I do competitive programming and do random stuffs. 
 
 ## Skills
