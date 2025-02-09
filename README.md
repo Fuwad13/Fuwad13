@@ -9,9 +9,10 @@ I do competitive programming and do random stuffs.
     </a>
 </div>
 
-* Programming Languages : C++, C, Python, Java, Javascript
-* Cloud computing
+* Programming Languages : C++, C, Python, Java, JavaScript, TypeScript, Kotlin
 * Competitive Programming
+* Machine Learning, Deep Learning
+* Cloud computing
 
 ## Tools and Technologies
 
